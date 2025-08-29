@@ -1,13 +1,13 @@
 <!-- Profile: Web Design / Frontend -->
 
-<h1 align="center">Hi, I'm <Edosa Enowoghomwenma> 👋</h1>
+<h1 align="center">Hi, I'm Edosa Enowoghomwenma 👋</h1>
 <p align="center">
   Web Designer & Frontend Developer — I craft fast, responsive, accessible websites and landing pages.
 </p>
 
 <p align="center">
-  <a href="mailto:<EMAIL>"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail"></a>
-  <a href="https://github.com/<USERNAME>?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Projects-Explore-blue"></a>
+  <a href="mailto:<ee.designhub@gmail.com>"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail"></a>
+  <a href="https://github.com/<ee-designhub>?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Projects-Explore-blue"></a>
   <a href="https://www.linkedin.com/in/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin"></a>
   <a href="#"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-111111"></a>
 </p>
